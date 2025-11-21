@@ -5,13 +5,13 @@
 ---------
 
 
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width ="70px">
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width ="70px">
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width ="70px">
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width ="70px">
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width ="70px">
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width ="40px">
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width ="40px">
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width ="40px">
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width ="40px">
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width ="40px">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![RTXOVER GitHub stats](https://github-readme-stats.vercel.app/api?username=RTXOVER&show_icons=true&theme=dracula)
 
 
 
