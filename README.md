@@ -4,15 +4,16 @@
 
 ---------
 
-
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width ="40px">
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width ="40px">
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width ="40px">
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px">
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width ="40px">
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width ="40px">
+</p>
 
 ![RTXOVER GitHub stats](https://github-readme-stats.vercel.app/api?username=RTXOVER&show_icons=true&theme=dracula)
-
+![RTXOVER GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RTXOVER&layout=compact&langs_count=7&theme=dracula)
 
 
 
